@@ -21,9 +21,10 @@ public class Missel {
         misX += velocidade;
     }
 
-    public float getMisX(){
+    public float getMisX() {
         return misX;
     }
+
     public float getMisY(){
         return misY;
     }
