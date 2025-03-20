@@ -92,6 +92,7 @@ public class Spaceship extends ApplicationAdapter {
                 power = 3;
                 posY = 0;
                 posX = 0;
+                misseis.clear();
                 enemies.clear();
                 gameOver = false;
             }
